@@ -29,11 +29,18 @@ A Python-based interactive quiz application built for college. It features multi
 - Contribute to open-source blockchain projects
 - Gain practical experience through internships in Web3 / Blockchain
 
-
-### Let's Connect & Collaborate
-- **Email**: hamad.emp@gmail.com
-- **Open to**: Internships, mentorship, open-source contributions, and collaboration in blockchain/Web3
+### Tech Stack (Learning Path)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ---
 
+### Let's Connect
+- **Email**: [hamad.emp@gmail.com](mailto:your.email@example.com)
+- **LinkedIn**: [www.linkedin.com/in/hamad-khan-9586b23aa](https://linkedin.com/in/yourprofile) 
+- **Open to**: Collaboration, mentorship, internships, or open-source contributions in blockchain
+
+---
 Always learning | Passionate about decentralized technology
