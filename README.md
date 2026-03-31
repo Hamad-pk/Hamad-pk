@@ -38,8 +38,7 @@ A Python-based interactive quiz application built for college. It features multi
 ---
 
 ### Let's Connect
-- **Email**: [hamad.emp@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [www.linkedin.com/in/hamad-khan-9586b23aa](https://linkedin.com/in/yourprofile) 
+- **Email**: [hamad.emp@gmail.com](mailto:your.email@example.com) 
 - **Open to**: Collaboration, mentorship, internships, or open-source contributions in blockchain
 
 ---
