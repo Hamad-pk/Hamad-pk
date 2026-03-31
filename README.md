@@ -19,7 +19,7 @@ My goal is to build a strong foundation in Web3 and grow into a skilled blockcha
 A Python-based interactive quiz application built for college. It features multiple-choice questions, score tracking, and a simple user-friendly interface.  
 
 - **Technologies**: Python  
-- **Link**: [View Project →](https://github.com/Hamad-pk/quiz-app) *(replace with your actual repo link once created)*
+- **Link**: [View Project →](https://github.com/Hamad-pk/college-quiz-app.git)
 
 *(More blockchain-related projects coming soon!)*
 
