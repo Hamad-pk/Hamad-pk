@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Hamadullah Khan 👋
 
-<!--
-**Hamad-pk/Hamad-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Aspiring Blockchain Developer** | Python & JavaScript | Based in Lahore, Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I am a recent Intermediate (12th Grade) graduate currently pursuing my undergraduate studies. I am passionate about blockchain technology, smart contracts, and decentralized applications (dApps).  
+
+My goal is to build a strong foundation in Web3 and grow into a skilled blockchain developer.
+
+### Current Skills
+- **Programming Languages**: Python, JavaScript
+- **Tools**: Git, GitHub, VS Code
+- **Currently Learning**: Solidity, Ethereum, Smart Contracts, Web3.js / ethers.js
+
+### Projects
+**Quiz App**  
+A Python-based interactive quiz application built for college. It features multiple-choice questions, score tracking, and a simple user-friendly interface.  
+
+- **Technologies**: Python  
+- **Link**: [View Project →](https://github.com/Hamad-pk/quiz-app) *(replace with your actual repo link once created)*
+
+*(More blockchain-related projects coming soon!)*
+
+### Goals for 2026
+- Master Solidity and successfully deploy my first smart contracts on testnets
+- Build small dApps using JavaScript + Web3
+- Contribute to open-source blockchain projects
+- Gain practical experience through internships in Web3 / Blockchain
+
+
+### Let's Connect & Collaborate
+- **Email**: hamademp@gmail.com
+- **Open to**: Internships, mentorship, open-source contributions, and collaboration in blockchain/Web3
+
+---
+
+Always learning | Passionate about decentralized technology
