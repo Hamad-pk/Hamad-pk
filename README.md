@@ -31,7 +31,7 @@ A Python-based interactive quiz application built for college. It features multi
 
 
 ### Let's Connect & Collaborate
-- **Email**: hamademp@gmail.com
+- **Email**: hamad.emp@gmail.com
 - **Open to**: Internships, mentorship, open-source contributions, and collaboration in blockchain/Web3
 
 ---
