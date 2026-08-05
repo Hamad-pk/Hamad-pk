@@ -69,21 +69,12 @@ A Solidity CRUD application that manages student records with administrator acce
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamad-pk\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamad-pk\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hamad-pk\&theme=tokyonight\&hide_border=true)
+- Building Solidity smart contracts
+- Learning Ethereum development
+- Expanding my Web3 knowledge
+- Creating production-ready blockchain projects
 
 ---
 
