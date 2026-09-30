@@ -2,39 +2,57 @@
 
 ### Blockchain Developer | Solidity | Ethereum | Foundry
 
-I'm a blockchain developer focused on building secure and well-tested smart contracts on Ethereum. My projects demonstrate practical experience with Solidity, Foundry, automated testing, deployment scripts, access control, ETH transfers, and smart contract security.
+I'm a blockchain developer focused on building secure, well-tested smart contracts on Ethereum.
+
+My GitHub documents my progression from Solidity fundamentals and smart contract security to Foundry-based development, automated testing, deployment scripts, and practical blockchain projects.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔨 Auction Contract
-A single-use ETH auction system with competitive bidding, pending refunds for outbid bidders, auction lifecycle management, and secure fund withdrawal.
 
-**Key concepts:** Solidity, mappings, nested mappings, custom errors, events, CEI, ETH transfers.
+A single-use Ethereum auction smart contract supporting competitive ETH bidding, automatic tracking of the highest bidder, immediate refunds for outbid bidders, auction lifecycle management, and secure withdrawal of the winning bid.
+
+**Key concepts:** Solidity, mappings, nested mappings, custom errors, events, payable functions, low-level `call`, CEI.
+
+---
 
 ### 💰 Crowdfunding
-A decentralized crowdfunding contract supporting campaign creation, ETH contributions, funding goals, deadlines, creator withdrawals, and contributor refunds.
 
-**Key concepts:** Structs, mappings, nested mappings, custom errors, CEI, financial state management.
+A decentralized crowdfunding smart contract supporting campaign creation, ETH contributions, funding goals, deadlines, creator withdrawals, and contributor refunds.
+
+**Key concepts:** Structs, mappings, nested mappings, custom errors, ETH transfers, CEI, financial state management.
+
+---
 
 ### 🗳️ Decentralized Voting System
-A single-election voting system with candidate registration, election lifecycle management, one-vote-per-wallet enforcement, and winner calculation.
 
-**Key concepts:** Access control, mappings, structs, custom errors, events, state management.
+A single-election voting smart contract with administrator-controlled candidate registration, election lifecycle management, one-vote-per-wallet enforcement, and winner calculation.
+
+**Key concepts:** Access control, structs, mappings, custom errors, events, state management.
+
+---
 
 ### 📝 Task Manager
-A per-user task management system using nested mappings and automatically generated task IDs.
 
-**Key concepts:** Nested mappings, structs, CRUD operations, state management, events.
+A decentralized task management smart contract providing per-user task isolation, automatic task IDs, task creation, updates, completion, and deletion.
+
+**Key concepts:** Nested mappings, structs, CRUD operations, events, state management.
+
+---
 
 ### 🏦 Smart Bank
-A decentralized banking contract supporting Ether deposits and withdrawals with internal balance tracking and secure ETH transfers.
+
+A decentralized banking smart contract supporting Ether deposits and withdrawals with internal balance tracking and secure ETH transfers.
 
 **Key concepts:** Payable functions, low-level `call`, custom errors, CEI, balance management.
 
+---
+
 ### 🎓 Student Management System
-A Solidity-based student management system with administrator-controlled record management.
+
+A Solidity-based student management smart contract with administrator-controlled student registration, updating, viewing, and deletion.
 
 **Key concepts:** Access control, structs, mappings, CRUD operations, events, custom errors.
 
@@ -62,25 +80,55 @@ A Solidity-based student management system with administrator-controlled record 
 
 ---
 
-## 🧪 Smart Contract Development
+## 🔐 Smart Contract Development
 
-Currently focused on:
+Experience with:
 
-- Foundry-based development
-- Automated Solidity testing
+- Solidity fundamentals and contract architecture
+- Ethereum and EVM concepts
+- Access control
+- Custom errors and events
+- Ether transfers and low-level `call`
+- Checks-Effects-Interactions (CEI)
+- Common smart contract vulnerabilities
+- Secure state management
+- Gas optimization concepts
+- Foundry development
+- Automated smart contract testing
 - Deployment scripts
-- Smart contract security
-- Gas-efficient Solidity
-- Ethereum development
-- Building production-style dApps
 
 ---
 
-## 📈 Current Focus
+## 🧪 Testing & Development
 
-Building a stronger blockchain development portfolio by combining:
+My development workflow includes:
 
-**Solidity → Foundry → Testing → Deployment → Full-Stack dApps**
+- Writing Solidity contracts with Foundry
+- Building automated unit tests
+- Testing success and failure scenarios
+- Testing custom errors and contract state
+- Using deployment scripts
+- Using Remix IDE for rapid development and experimentation
+- Managing projects with Git and GitHub
+
+---
+
+## 🎯 Current Focus
+
+Currently working on:
+
+- Building production-style Solidity projects
+- Expanding Foundry test coverage and testing practices
+- Deploying smart contracts to Ethereum testnets
+- Learning Ethers.js and blockchain frontend integration
+- Building full-stack dApps
+- Preparing for blockchain developer opportunities
+
+---
+
+## 📈 Development Path
+
+**Solidity → Smart Contract Security → Foundry & Testing → Testnet Deployment → Ethers.js → Full-Stack dApps**
 
 ---
 
