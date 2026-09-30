@@ -1,88 +1,94 @@
 # Hi there, I'm Hamadullah Khan 👋
 
-### Blockchain Developer | Solidity | Ethereum | Smart Contract Development
+### Blockchain Developer | Solidity | Ethereum | Foundry
 
-I'm passionate about building secure, efficient, and decentralized applications on Ethereum. My GitHub documents my journey as I learn blockchain development by building real smart contracts and continuously improving my understanding of Solidity and Web3 technologies.
+I'm a blockchain developer focused on building secure and well-tested smart contracts on Ethereum. My projects demonstrate practical experience with Solidity, Foundry, automated testing, deployment scripts, access control, ETH transfers, and smart contract security.
 
 ---
 
-## 🚀 Featured Blockchain Projects
+## 🚀 Featured Projects
+
+### 🔨 Auction Contract
+A single-use ETH auction system with competitive bidding, pending refunds for outbid bidders, auction lifecycle management, and secure fund withdrawal.
+
+**Key concepts:** Solidity, mappings, nested mappings, custom errors, events, CEI, ETH transfers.
+
+### 💰 Crowdfunding
+A decentralized crowdfunding contract supporting campaign creation, ETH contributions, funding goals, deadlines, creator withdrawals, and contributor refunds.
+
+**Key concepts:** Structs, mappings, nested mappings, custom errors, CEI, financial state management.
 
 ### 🗳️ Decentralized Voting System
+A single-election voting system with candidate registration, election lifecycle management, one-vote-per-wallet enforcement, and winner calculation.
 
-A secure single-election voting smart contract featuring candidate registration, election lifecycle management, one-vote-per-wallet enforcement, winner calculation, custom errors, and event-driven architecture.
+**Key concepts:** Access control, mappings, structs, custom errors, events, state management.
 
-### 🏦 Smart Bank Contract
+### 📝 Task Manager
+A per-user task management system using nested mappings and automatically generated task IDs.
 
-A decentralized banking smart contract supporting secure Ether deposits and withdrawals using payable functions, low-level `call`, internal balance tracking, and custom errors.
+**Key concepts:** Nested mappings, structs, CRUD operations, state management, events.
 
-### ✅ Task Manager Smart Contract
+### 🏦 Smart Bank
+A decentralized banking contract supporting Ether deposits and withdrawals with internal balance tracking and secure ETH transfers.
 
-A decentralized task management system utilizing nested mappings, automatic task ID generation, per-user task isolation, immutable task IDs, and CRUD operations.
+**Key concepts:** Payable functions, low-level `call`, custom errors, CEI, balance management.
 
 ### 🎓 Student Management System
+A Solidity-based student management system with administrator-controlled record management.
 
-A Solidity CRUD application that manages student records with administrator access control, structs, mappings, events, and custom errors.
+**Key concepts:** Access control, structs, mappings, CRUD operations, events, custom errors.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Blockchain & Smart Contracts
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Blockchain
+### Development & Testing
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 ![Remix IDE](https://img.shields.io/badge/Remix-1C1C1C?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 🧪 Smart Contract Development
 
-* Advanced Solidity
-* Hardhat
-* Foundry
-* Ethers.js
-* Smart Contract Testing
-* Full-Stack dApp Development
+Currently focused on:
 
----
-
-## 🎯 2026 Goals
-
-* Build production-style smart contracts
-* Develop complete decentralized applications (dApps)
-* Write automated smart contract tests
-* Deploy projects on Ethereum test networks
-* Contribute to open-source blockchain projects
-* Begin my professional career as a Blockchain Developer
+- Foundry-based development
+- Automated Solidity testing
+- Deployment scripts
+- Smart contract security
+- Gas-efficient Solidity
+- Ethereum development
+- Building production-style dApps
 
 ---
 
-## 📌 Current Focus
+## 📈 Current Focus
 
-- Building Solidity smart contracts
-- Learning Ethereum development
-- Expanding my Web3 knowledge
-- Creating production-ready blockchain projects
+Building a stronger blockchain development portfolio by combining:
+
+**Solidity → Foundry → Testing → Deployment → Full-Stack dApps**
 
 ---
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-hu838546%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hu838546@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hu838546%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hu838546@gmail.com)
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my blockchain development journey.*
+⭐ Feel free to explore my repositories and follow my blockchain development journey.
 
