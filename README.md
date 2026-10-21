@@ -152,7 +152,7 @@ A Solidity smart contract for administrator-controlled student registration, upd
 
 ## 📫 Connect With Me
 
-**Email:** hamad.emp@gmail.com
+**Email:** [hamad.emp@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hamad.emp@gmail.com&utm_source=chatgpt.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamad-khan-454625442)
 
